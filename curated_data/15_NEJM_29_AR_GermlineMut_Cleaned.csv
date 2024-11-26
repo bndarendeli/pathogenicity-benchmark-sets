@@ -1,4 +1,4 @@
-,Panel Decision,Gene,Chr,Pos,Ref,Alt
+,Label,Gene,Chr,Pos,Ref,Alt
 0,Probably Pathogenic,ERCC2,chr19,45855805,T,-
 1,Probably Pathogenic,ERCC3,chr2,128044507,-,ACTGCT
 2,Probably Pathogenic,FANCD2,chr3,10133889,T,G
