@@ -1,4 +1,4 @@
-,Panel Decision,Gene,Chr,Pos,Ref,Alt
+,Label,Gene,Chr,Pos,Ref,Alt
 0,Pathogenic,ALK,chr2,29432664,C,T
 1,Probably Pathogenic,APC,chr5,112176317,A,G
 2,Probably Pathogenic,APC,chr5,112175100,G,T
