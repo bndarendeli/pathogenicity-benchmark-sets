@@ -26,3 +26,10 @@ Azaiez, H., Booth, K. T., Ephraim, S. S., Crone, B., Black-Ziegelbein, E. A., Ma
  
  Gunning, A. C., Fryer, V., Fasham, J., Crosby, A. H., Ellard, S., Baple, E. L., & Wright, C. F. (2021). Assessing performance of pathogenicity predictors using clinically relevant variant datasets. Journal of medical genetics, 58(8), 547-555. \
   -> Online Supplemental Table S1
+
+  ## Dilated Cardiomyopathy Dataset - Moreales et al. AHA Journal :
+  **Variant Interpretation for Dilated Cardiomyopathy: Refinement of the American College of Medical Genetics and Genomics/ClinGen Guidelines for the DCM Precision Medicine Study** \
+  url : https://www.ahajournals.org/doi/10.1161/CIRCGEN.119.002480 \
+
+ Morales, A., Kinnamon, D. D., Jordan, E., Platt, J., Vatta, M., Dorschner, M. O., ... & DCM Precision Medicine study of the DCM Consortium. (2020). Variant interpretation for dilated cardiomyopathy: refinement of the American College of Medical Genetics    and Genomics/ClinGen Guidelines for the DCM Precision Medicine Study. Circulation: Genomic and Precision Medicine, 13(4), e002480. \
+  -> Supplemental Table 2
