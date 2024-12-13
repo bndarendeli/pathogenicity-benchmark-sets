@@ -17,5 +17,5 @@ Dong, C., Wei, P., Jian, X., Gibbs, R., Boerwinkle, E., Wang, K., & Liu, X. (201
 **Genomic Landscape and Mutational Signatures of Deafness-Associated Genes** \
 url : https://www.cell.com/ajhg/fulltext/S0002-9297(18)30272-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0002929718302726%3Fshowall%3Dtrue
 
-Azaiez, H., Booth, K. T., Ephraim, S. S., Crone, B., Black-Ziegelbein, E. A., Marini, R. J., ... & Smith, R. J. (2018). Genomic landscape and mutational signatures of deafness-associated genes. The American Journal of Human Genetics, 103(4), 484-497.
+Azaiez, H., Booth, K. T., Ephraim, S. S., Crone, B., Black-Ziegelbein, E. A., Marini, R. J., ... & Smith, R. J. (2018). Genomic landscape and mutational signatures of deafness-associated genes. The American Journal of Human Genetics, 103(4), 484-497. \
  -> Supplemental Data, Table S3
