@@ -19,3 +19,8 @@ url : https://www.cell.com/ajhg/fulltext/S0002-9297(18)30272-6?_returnURL=https%
 
 Azaiez, H., Booth, K. T., Ephraim, S. S., Crone, B., Black-Ziegelbein, E. A., Marini, R. J., ... & Smith, R. J. (2018). Genomic landscape and mutational signatures of deafness-associated genes. The American Journal of Human Genetics, 103(4), 484-497. \
  -> Supplemental Data, Table S3
+
+ ## Clinically Representative Dataset - Gunning et al.  :
+ **Assessing performance of pathogenicity predictors using clinically relevant variant datasets** \
+ url : https://jmg.bmj.com/content/58/8/547.abstract \
+  -> Online Supplemental Table S1
