@@ -1,26 +1,26 @@
 
 # References of Datasets
 
-## NEJM Dataset :
+## Pediatric Cancer Dataset - NEJM :
 **Germline Mutations in Predisposition Genes in Pediatric Cancer**  \
 url : https://www.nejm.org/doi/full/10.1056/NEJMoa1508054#supplementary-materials
 
 Zhang, J., Walsh, M. F., Wu, G., Edmonson, M. N., Gruber, T. A., Easton, J., ... & Downing, J. R. (2015). Germline mutations in predisposition genes in pediatric cancer. New England Journal of Medicine, 373(24), 2336-2346.
 
-## Oxford Dataset : 
+## Oxford Dataset - Deleterious mutations : 
 **Comparison and integration of deleteriousness prediction methods for nonsynonymous SNVs in whole exome sequencing studies**  \
 url : https://academic.oup.com/hmg/article/24/8/2125/651446
 
 Dong, C., Wei, P., Jian, X., Gibbs, R., Boerwinkle, E., Wang, K., & Liu, X. (2015). Comparison and integration of deleteriousness prediction methods for nonsynonymous SNVs in whole exome sequencing studies. Human molecular genetics, 24(8), 2125-2137.
 
-## Deafness Dataset :
+## Deafness Dataset - Cell :
 **Genomic Landscape and Mutational Signatures of Deafness-Associated Genes** \
 url : https://www.cell.com/ajhg/fulltext/S0002-9297(18)30272-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0002929718302726%3Fshowall%3Dtrue
 
 Azaiez, H., Booth, K. T., Ephraim, S. S., Crone, B., Black-Ziegelbein, E. A., Marini, R. J., ... & Smith, R. J. (2018). Genomic landscape and mutational signatures of deafness-associated genes. The American Journal of Human Genetics, 103(4), 484-497. \
  -> Supplemental Data, Table S3
 
- ## Clinically Representative Dataset - Gunning et al.  :
+ ## Clinically Representative Dataset - Gunning et al. BMJ  :
  **Assessing performance of pathogenicity predictors using clinically relevant variant datasets** \
  url : https://jmg.bmj.com/content/58/8/547.abstract \
  
