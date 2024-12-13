@@ -24,5 +24,5 @@ Azaiez, H., Booth, K. T., Ephraim, S. S., Crone, B., Black-Ziegelbein, E. A., Ma
  **Assessing performance of pathogenicity predictors using clinically relevant variant datasets** \
  url : https://jmg.bmj.com/content/58/8/547.abstract \
  
- Gunning, A. C., Fryer, V., Fasham, J., Crosby, A. H., Ellard, S., Baple, E. L., & Wright, C. F. (2021). Assessing performance of pathogenicity predictors using clinically relevant variant datasets. Journal of medical genetics, 58(8), 547-555.
+ Gunning, A. C., Fryer, V., Fasham, J., Crosby, A. H., Ellard, S., Baple, E. L., & Wright, C. F. (2021). Assessing performance of pathogenicity predictors using clinically relevant variant datasets. Journal of medical genetics, 58(8), 547-555. \
   -> Online Supplemental Table S1
