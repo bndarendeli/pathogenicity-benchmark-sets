@@ -25,7 +25,7 @@ Azaiez, H., Booth, K. T., Ephraim, S. S., Crone, B., Black-Ziegelbein, E. A., Ma
  url : https://jmg.bmj.com/content/58/8/547.abstract \
  
  Gunning, A. C., Fryer, V., Fasham, J., Crosby, A. H., Ellard, S., Baple, E. L., & Wright, C. F. (2021). Assessing performance of pathogenicity predictors using clinically relevant variant datasets. Journal of medical genetics, 58(8), 547-555. \
-  -> Online Supplemental Table S1
+  -> Online Supplemental Table S1 \ 
 ![21_BMJ_Gunning_clinically_representative_dataset](https://github.com/user-attachments/assets/bbaee5f4-bc6a-4d2e-8fb7-bd1e3cd02ee3)
 
   ## Dilated Cardiomyopathy Dataset - Moreales et al. AHA Journal :
