@@ -33,3 +33,15 @@ Azaiez, H., Booth, K. T., Ephraim, S. S., Crone, B., Black-Ziegelbein, E. A., Ma
 
  Morales, A., Kinnamon, D. D., Jordan, E., Platt, J., Vatta, M., Dorschner, M. O., ... & DCM Precision Medicine study of the DCM Consortium. (2020). Variant interpretation for dilated cardiomyopathy: refinement of the American College of Medical Genetics    and Genomics/ClinGen Guidelines for the DCM Precision Medicine Study. Circulation: Genomic and Precision Medicine, 13(4), e002480. \
   -> Supplemental Table 2
+## ClinVar2019 - 2020 Dataset - Pejaver et al. The Americal Journal of Human Genetics : 
+**Calibration of computational tools for missense variant pathogenicity classification and ClinGen recommendations for PP3/BP4 criteria** \
+url : https://www.cell.com/ajhg/fulltext/S0002-9297(22)00461-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS000292972200461X%3Fshowall%3Dtrue \
+
+Pejaver, V., Byrne, A. B., Feng, B. J., Pagel, K. A., Mooney, S. D., Karchin, R., ... & Topper, S. (2022). Calibration of computational tools for missense variant pathogenicity classification and ClinGen recommendations for PP3/BP4 criteria. The American Journal of Human Genetics, 109(12), 2163-2177.
+ -> Data S1. ClinVar 2019 dataset
+    Data S3. ClinVar 2020 dataset 
+
+## CAGI5 : Annotate All Missense Challenge , 2018 :
+url : https://www.khoury.northeastern.edu/home/radivojac/cagi/cagi5-annotate-all-missense.html \
+
+List of all possible nsSNVs based on the human reference sequence was created from dbNSFP
